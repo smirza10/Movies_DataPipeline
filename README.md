@@ -1,0 +1,2 @@
+# Movies_DataPipeline
+I completed this project using a Jupyter Notebook using python 3.8 as the programming language. I also used libraries such as pandas, NumPy, and ast. In order to run this program the machine must have these capabilities to run these libraries and applications. The output csv file was saved as Final_Output.csv. The input csv file has to be stored in the same file folder as the program. The program is saved as GuildWorkSample.ipynb. 
